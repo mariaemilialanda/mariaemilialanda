@@ -1,11 +1,15 @@
 ### <div align="center"> Hola!!! </div>  
   
   
-Soy Full Stack Developer de San Juan, Argentina, actualmente trabajando en gestión de clientes y coordinación de cuentas corporativas. Esta actividad me permitió desarrollar un pensamiento analítico para implementar herramientas de automatización de procesos y además, a liderar equipos. Mi especialidad se encuentra en el desarrollo Front-end, con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks CSS etre otros.
+ I'm a Full Stack Developer currently working as a systems analyst and executive account coordinator for a funeral company. This role has helped me develop strong interpersonal skills, apply continuous improvement tools, and also lead teams. I specialize in Front-end with knowledge of languages such as Javascript and Typescript, using frameworks like ReactJS, NextJs, and libraries like Jquery and Redux. Additionally, I have advanced knowledge of HTML and CSS, working with frameworks such as Bootstrap, MaterialUI, and Tailwind.
 
-He adquirido experiencia en el desarrollo tanto Front-end como Back-end y en la arquitectura de datos utilizando tecnologías como HTML, Javascript, React JS, Redux, Node JS, Express, Sequelize, PostgreSQL y Firebase; con efoque en la resolución de problemas, pensamiento analitico y orientación a la obtencion de resultados.
+As a Full-stack developer, I have experience in Back End development and data architecture using Node JS with Express, ORMS like Sequelize and Prisma. I also have basic knowledge of PHP, and when it comes to databases, I have experience working with PostgreSQL, Firebase, and MongoDB. As an addition, I'm experienced in working with Docker on Google Cloud and conducting functional or unit testing using Jest. My focus lies in problem-solving, analytical thinking, and adaptability to different scenarios that may arise during project development.
 
-Además, cuento con un nivel avanzado de inglés (C1) en todas las habilidades necesarias para comunicarme efectivamente en un ambiente de trabajo internacional. Estoy entusiasmada de contribuir y seguir aprendiendo en el campo de la tecnología.
+Furthermore, I have an advanced level of English (C1) in all the necessary skills to effectively communicate in an international work environment. I'm excited to contribute and continue learning in the field of technology!
+
+You can also find me at:
+https://github.com/mariaemilialanda
+emilia.landa@gmail.com
 <br/>  
 
 ## My Skill Set  
